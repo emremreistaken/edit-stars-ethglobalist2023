@@ -8,7 +8,7 @@ import "../interfaces/IPUSHCommInterface.sol";
 contract CompetitionPlatform {
     address public owner;
     address internal immutable _pushAddress;
-    address internal immutable _pushChannelCreator;
+    address internal _pushChannelCreator = 0xBeAD3E8557a507e6b2F293b150Fd2A587a18E47f;
     
     enum CompetitionStatus { Active, Completed } //can add pending state 
     
@@ -44,10 +44,9 @@ contract CompetitionPlatform {
         _;
     }
 
-    constructor(address push, address creator) {
+    constructor(address push) {
         owner = msg.sender;
         _pushAddress = push;
-        _pushChannelCreator = creator;
     }
 
     function createCompetition(string memory _name, uint256 _prizeAmount, address _prizeToken) external onlyOwner {
