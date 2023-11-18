@@ -1,11 +1,30 @@
-# FEVM-Data-DAO-Kit
+EditStarsCompetition @ScrollSepolia: 0xdfE8B0079150D0FD855AE76a32FB415AC6045410
+-> https://blockscout.scroll.io/address/0xdfE8B0079150D0FD855AE76a32FB415AC6045410
+EditStarsSeamlessQF @ScrollSepolia: 0xb13cb2f9d2963bCF222097ff143E96F1FE3E5DFA
+-> https://blockscout.scroll.io/address/0xb13cb2f9d2963bCF222097ff143E96F1FE3E5DFA
 
-This is a beta kit to demo how to build a basic Decentralized Autonomous Organization (DAO) on Filecoin.
+EditStarsSeamlessQF @ChilizSpicy:0x7179694a8b3eA276b8dc2904C59d52c07BD72031
+-> https://spicy-explorer.chiliz.com/address/0x7179694a8b3eA276b8dc2904C59d52c07BD72031/contracts#address-tabs
+EditStarsCompetition @ChilizSpicy: 0x2480b0157b125470272630928c3eB951a7Fb0169
+-> https://spicy-explorer.chiliz.com/address/0x2480b0157b125470272630928c3eB951a7Fb0169/contracts#address-tabs
 
-## About This Repo
+EditStarsCompetition @LineaGoerli: 0xe42B9e86C8dE4880d0b8dD4e98eb7528161c1D56
+-> https://goerli.lineascan.build/address/address/0xe42B9e86C8dE4880d0b8dD4e98eb7528161c1D56#code
+EditStarsSeamlessQF @LineaGoerli: 0x37F028Ce6e569487d7764729BBEc96807B060771
+-> https://goerli.lineascan.build/address/address/0x37F028Ce6e569487d7764729BBEc96807B060771#code
 
-Start out in the "hardhat" directory and follow the readme there to begin deploying and interacting with contracts.
+EditStarsCompetition @CeloAlfajores: 0xdfE8B0079150D0FD855AE76a32FB415AC6045410
+EditStarsSeamlessQF @CeloAlfajores: 0xb13cb2f9d2963bCF222097ff143E96F1FE3E5DFA
 
-Then go to the "frontend" directory to run an example frontend!
+EditStarsCompetition @BaseGoerli: 0xb13cb2f9d2963bCF222097ff143E96F1FE3E5DFA
+-> https://goerli.basescan.org/address/0xb13cb2f9d2963bCF222097ff143E96F1FE3E5DFA#code
+EditStarsSeamlessQF @BaseGoerli: 0xA1D8Da8b5338e6a8DCD46E26CCF6779489f455F3
+-> https://goerli.basescan.org/address/0xA1D8Da8b5338e6a8DCD46E26CCF6779489f455F3#code
 
+EditStarsCompetition @MantleTestnet: 0xb13cb2f9d2963bCF222097ff143E96F1FE3E5DFA
+-> https://explorer.testnet.mantle.xyz/address/0xb13cb2f9d2963bCF222097ff143E96F1FE3E5DFA#code
+EditStarsSeamlessQF @MantleTest: 0xA1D8Da8b5338e6a8DCD46E26CCF6779489f455F3
+-> https://explorer.testnet.mantle.xyz/address/0xA1D8Da8b5338e6a8DCD46E26CCF6779489f455F3#code
 
+EditStarsCompetition @PolygonMumbai: 0xb13cb2f9d2963bCF222097ff143E96F1FE3E5DFA
+EditStarsSeamlessQF @PolygonMumbai: 0xA1D8Da8b5338e6a8DCD46E26CCF6779489f455F3

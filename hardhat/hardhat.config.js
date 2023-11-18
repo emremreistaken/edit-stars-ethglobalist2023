@@ -6,6 +6,7 @@ require("dotenv").config()
 
 const PRIVATE_KEY = process.env.PRIVATE_KEY
 /** @type import('hardhat/config').HardhatUserConfig */
+
 module.exports = {
     solidity: {
         version: "0.8.17",
@@ -29,6 +30,11 @@ module.exports = {
             url: "https://api.node.glif.io",
             accounts: [PRIVATE_KEY],
         },
+        ChilizSpicy: {
+          chainId: 88882,
+          url: "https://spicy-rpc.chiliz.com/",
+          accounts: [PRIVATE_KEY],
+      },
     },
     paths: {
         sources: "./contracts",
